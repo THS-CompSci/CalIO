@@ -21,6 +21,8 @@ public class EventCreate extends AppCompatActivity {
         mySpinner.setOnItemSelectedListener(this);
 
 
+
+
     }
 
     @Override
