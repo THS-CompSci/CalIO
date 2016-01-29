@@ -21,7 +21,7 @@
             android:name=".EventCreate"
             android:label="@string/title_activity_event_create" > <meta-data
             android:name="android.support.PARENT_ACTIVITY"
-            android:value="com.example.ParentActivity" />
+           />
         </activity>
     </application>
 
